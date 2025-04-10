@@ -24,8 +24,8 @@ Before installing Ollama PDF RAG, ensure you have:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tonykipkemboi/ollama_pdf_rag.git
-   cd ollama_pdf_rag
+   git clone https://github.com/latief13mm/final_project_qarir_llm_chatbot.git
+   cd final_project_qarir_llm_chatbot
    ```
 
 2. Create and activate a virtual environment:

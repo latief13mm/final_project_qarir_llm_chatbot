@@ -1,6 +1,6 @@
 # Changelog
 
-The changelog is maintained in the root of the project: [CHANGELOG.md](https://github.com/tonykipkemboi/ollama_pdf_rag/blob/main/CHANGELOG.md)
+The changelog is maintained in the root of the project: [CHANGELOG.md](https://github.com/latief13mm/final_project_qarir_llm_chatbot/blob/main/CHANGELOG.md)
 
 ## Latest Release
 
@@ -27,4 +27,4 @@ The changelog is maintained in the root of the project: [CHANGELOG.md](https://g
 - ONNX runtime compatibility issues
 - Test coverage configuration
 
-[View full changelog](https://github.com/tonykipkemboi/ollama_pdf_rag/blob/main/CHANGELOG.md) 
+[View full changelog](https://github.com/latief13mm/final_project_qarir_llm_chatbot/blob/main/CHANGELOG.md) 

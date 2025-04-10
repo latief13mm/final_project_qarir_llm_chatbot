@@ -2,10 +2,6 @@
 
 Thank you for considering contributing to Ollama PDF RAG! This document provides guidelines and instructions for contributing.
 
-## Code of Conduct
-
-This project follows a Code of Conduct that all contributors are expected to adhere to. Please read [CODE_OF_CONDUCT.md](https://github.com/tonykipkemboi/ollama_pdf_rag/blob/main/CODE_OF_CONDUCT.md) before contributing.
-
 ## How to Contribute
 
 ### Setting Up Development Environment
@@ -13,8 +9,8 @@ This project follows a Code of Conduct that all contributors are expected to adh
 1. Fork the repository
 2. Clone your fork:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ollama_pdf_rag.git
-   cd ollama_pdf_rag
+   git clone https://github.com/latief13mm/final_project_qarir_llm_chatbot.git
+   
    ```
 
 3. Create a virtual environment:

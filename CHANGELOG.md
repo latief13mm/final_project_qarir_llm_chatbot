@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [v2.1.0] - 2024-01-07
+## [v2.1.0] - 2025-04-10
 
 ### Added
 - Comprehensive test suite with pytest
