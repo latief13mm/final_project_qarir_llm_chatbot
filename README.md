@@ -38,7 +38,7 @@ ollama_pdf_rag/
 
 2. **Clone Repository**
    ```bash
-   git clone 
+   git clone https://github.com/latief13mm/final_project_qarir_llm_chatbot.git
    ```
 
 3. **Set Up Environment**
